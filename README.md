@@ -1,2 +1,2 @@
 # Gas_Leakage_Detector_with_Email_Alert_Notification_using_ESP3
-Leakage Detection Using Arduino IOT 
+Send Mail For Gas Leakage Detection 
